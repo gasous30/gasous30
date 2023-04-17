@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Bagas  <img height="40" src="https://cdn3.emoji.gg/emojis/2272-octoplushpinkteal.gif"></h1>
 <h3 align="center">A passionate Python and Front-End developer from Indonesia</h3>
 
-- 🌍 I’m currently working on **KMPN Website & AI Development for UAV**
+- 🌍 I’m currently working on **KMPN (Keluarga Mahasiswa Teknik Penerbangan) Website**
 
 - 📖 I’m currently learning **Python, React, & MATLAB**
 
